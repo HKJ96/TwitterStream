@@ -1,0 +1,11 @@
+{
+    "my_id": 198505587,
+    "match_word": "fbrparty",
+    "account_age": 259200,
+    "status_count": 1,
+    "following_ratio": 5,
+
+    "focus_time" : 86400,
+    "loop_time" : 900,
+    "limit_time" : 300
+}
